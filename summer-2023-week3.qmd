@@ -1,0 +1,37 @@
+---
+
+preload-iframes: true
+format: revealjs
+
+---
+
+# Summer 2023 Data Team {background-iframe=“networkiframe/index.html”}
+
+
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+## Anabelle Colmenares
+- Data wrangling
+- Data analysis tools
+- Data visualization
+- Web development
+
+:::
+
+::: {.column width="50%"}
+
+## Chloe Williams
+- Data collection
+- Data analysis
+- Data schema design
+- Data archive
+
+:::
+
+::::
+
+---
