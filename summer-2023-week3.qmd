@@ -35,3 +35,5 @@ format: revealjs
 ::::
 
 ---
+
+{{< embed     know-systemic-racism.github.io/Workplan Summer 2023.ipynb >}}
