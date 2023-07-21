@@ -8,7 +8,7 @@ tsParticles.load({
       }
     },
     color: {
-      value: ["#2EB67D", "#ECB22E", "#E01E5B", "#36C5F0"]
+      value: ["#c3c3c3", "#94b1e0", "#85d0ed", "#d8e892"]
     },
     shape: {
       type: "circle"
@@ -28,7 +28,7 @@ tsParticles.load({
     },
     move: {
       enable: true,
-      speed: 5,
+      speed: 1,
       direction: "none",
       random: false,
       straight: false,
