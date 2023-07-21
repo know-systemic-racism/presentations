@@ -1,20 +1,22 @@
 ---
-
-preload-iframes: true
 format: revealjs
-
 ---
 
-# Summer 2023 Data Team {background-iframe=“networkiframe/index.html”}
+# KSR Data Lab {background-iframe="https://cncoleman.github.io/things/network/"}
 
 
----
+ Summer 2023
+
+
+
+# The Team
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 
-## Anabelle Colmenares
+Anabelle Colmenares
+
 - Data wrangling
 - Data analysis tools
 - Data visualization
@@ -24,7 +26,8 @@ format: revealjs
 
 ::: {.column width="50%"}
 
-## Chloe Williams
+Chloe Williams
+
 - Data collection
 - Data analysis
 - Data schema design
@@ -34,4 +37,12 @@ format: revealjs
 
 ::::
 
----
+
+# Work completed
+
+Monday
+
+# Work to be completed
+
+
+
