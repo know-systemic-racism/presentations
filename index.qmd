@@ -15,7 +15,7 @@ format: revealjs
 
 ::: {.column width="50%"}
 
-Anabelle Colmenares
+**Anabelle Colmenares**
 
 - Data wrangling
 - Data analysis tools
@@ -26,7 +26,7 @@ Anabelle Colmenares
 
 ::: {.column width="50%"}
 
-Chloe Williams
+**Chloe Williams**
 
 - Data collection
 - Data analysis
@@ -38,9 +38,18 @@ Chloe Williams
 ::::
 
 
+# Our Partners
+
+Stanford Center for Racial Justice
+Electronic Frontier Foundation
+American Friends Service Committee
+
+
+
 # Work completed
 
-Monday
+
+
 
 # Work to be completed
 
