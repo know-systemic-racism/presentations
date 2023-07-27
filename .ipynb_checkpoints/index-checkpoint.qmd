@@ -1,0 +1,64 @@
+---
+
+format: 
+  revealjs:
+    footer: "KSR Data Lab"
+    transition: slide
+    background-transition: fade
+---
+
+# Know Systemic Racism Data Lab {background-iframe="https://cncoleman.github.io/things/network/"} 
+
+Libraries + Data Science + Digital Humanities
+
+ Summer 2023
+
+
+
+# The Team
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+**Anabelle Colmenares**
+
+- Data wrangling
+- Data analysis tools
+- Data visualization
+- Web development
+
+:::
+
+::: {.column width="50%"}
+
+**Chloe Williams**
+
+- Data collection
+- Data analysis
+- Data schema design
+- Data archive
+
+:::
+
+::::
+
+
+# Our Partners
+
+::: {.incremental}
+- Stanford Center for Racial Justice
+- Electronic Frontier Foundation
+- American Friends Service Committee
+:::
+
+
+# Work completed
+
+
+
+
+# Work to be completed
+
+
+

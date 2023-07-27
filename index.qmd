@@ -1,15 +1,21 @@
 ---
-format: revealjs
+
+format: 
+  revealjs:
+    footer: "KSR Data Lab"
+    transition: slide
+    background-transition: fade
 ---
 
-# KSR Data Lab {background-iframe="https://cncoleman.github.io/things/network/"}
+# Know Systemic Racism Data Lab {background-iframe="https://cncoleman.github.io/things/network/"} 
 
+Libraries + Data Science + Digital Humanities
 
  Summer 2023
 
 
 
-# The Team
+# The Team, Summer 2023
 
 :::: {.columns}
 
@@ -40,18 +46,44 @@ format: revealjs
 
 # Our Partners
 
-Stanford Center for Racial Justice
-Electronic Frontier Foundation
-American Friends Service Committee
+::: {.incremental}
+- Stanford Center for Racial Justice
+- Electronic Frontier Foundation
+- American Friends Service Committee
+:::
 
 
+# What is Systemic Racism? {background-color="black" background-image="http://ofapsalprd2.stanford.edu:8080/WebModule/Login.jsp?recordInfo=1cc996b55e220cf36a0e79bd0bf3b6cb22e149089b6d2c49d4b9e83b3b04700c10670ca0de3af901b972f7147961650ac209977644261898a7d6da0c4e922ef72ec29ec6f70d32527a0ed6f53f41f501fb0f208b7c4b41b1490f81ad88018d2771ddcd0e5a8adfe9a45a70f06808fc5b3454f80d7d60a403" background-size="100%"" background-repeat="none"}
 
-# Work completed
+The Know Systemic Racism project is based at Stanford Libraries. It was initiated and is led by Stanford's Racial Justice and Social Equity Libarian, Felicia Smith. 
+
+::: {.incremental}
+- Systemic Racism Actually Does Exist
+- How Systemic Racism Interconnects
+- How to Help Fight Systemic Racism
+:::
 
 
+# What can libraries do?
 
+Provide access to resources. 
+But our systems of discovery can help perpetuate “othering”
+Categorization has a significant impact on what you can find.
 
-# Work to be completed
+# The Role of KSR Data Lab
+KSR Data Lab takes the aspiration of KSR — to show that systemic racism exists — as a provocation for thinking critically about data collection/creation, data structures, data access/discovery, and data preservation.
 
+# Data Collection/Creation
+We are guided by FAIR principles as well as CARE principles. 
 
+# Data Structure
+Knowledge Graph
+
+# Data Access & Discovery
+Multiple points of entry. Rather than seeking discrete data sets, we take advantage of the knowledge graph making connections across collections.
+
+# Data Preservation
+Stanford Digital Repository
+Wikidata
+Archive.org (Internet Archive) 
 
